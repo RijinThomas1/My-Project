@@ -1,0 +1,14 @@
+.banner{
+        background-color:cornflowerblue;
+        width :200%;
+        height:100px;
+        margin-bottom:50px;
+        border:2px solid tomato;
+}
+
+.banner-text{
+           top:50%;
+           left:50%;
+          position:sticky;
+           transform:scaleY(1.0);
+}
